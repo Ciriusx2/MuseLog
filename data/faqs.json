@@ -1,0 +1,18 @@
+[
+    {
+      "q": "How is my data kept private?",
+      "a": "Your privacy is our priority. All entries are encrypted, and your journal stays local unless you choose to back it up."
+    },
+    {
+      "q": "Can I organize or search through my entries?",
+      "a": "Definitely. Tag entries, add them to collections, and use filters or search to quickly revisit your past thoughts."
+    },
+    {
+      "q": "What’s the purpose of mood tagging?",
+      "a": "Mood tags help you track emotional trends and patterns, offering insights into your well-being over time."
+    },
+    {
+      "q": "Can I use MuseLog on my phone?",
+      "a": "Yes! MuseLog is fully responsive and works seamlessly on mobile, tablet, and desktop. A native app is on our roadmap too!"
+    }
+  ]
